@@ -1,71 +1,53 @@
-SQL for Data Engineering Portfolio
+# SQL for Data Engineering (Practice & Concepts)
 
-This repository documents my hands-on SQL training and practice using PostgreSQL, focused on building strong foundations for data engineering and data analysis workflows.
+• Overview
 
-The work in this repository was completed as part of structured training through LinkedIn Learning, where I applied SQL concepts to realistic datasets and practical exercises designed to reflect real-world data environments.
+This repository contains SQL work I’ve done while learning the foundations of data engineering.
 
-What This Repository Demonstrates
+The focus is on building a solid understanding of how SQL is used beyond simple queries.
 
-Through multiple commits and exercises, this repository showcases practical SQL skills including:
+---
 
-Creating and structuring relational database tables
+• What this repo includes
 
-Writing SQL queries for filtering and data exploration
+- SQL queries for different scenarios
+- Practice with joins and aggregations
+- Working with structured datasets
+- Exploring how data flows between tables
 
-Using joins, aggregations, and analytical queries
+---
 
-Practicing data manipulation and query optimization
+• Key focus areas
 
-Debugging common SQL errors
+- Understanding how to work with multiple tables
+- Writing queries that are clear and structured
+- Thinking about how queries behave with real data
 
-Organizing SQL scripts for structured workflows
+---
 
-The final section of the repository includes a capstone-style insurance claims dataset analysis, demonstrating practical querying and data exploration techniques.
+• Project Structure
 
-Technologies Used
+- SQL (PostgreSQL): queries and data work  
+- Documentation (text): notes, explanations, and thinking process  
 
-SQL
+---
 
-PostgreSQL
+• What I learned
 
-Relational Database Concepts
+- SQL is not just about writing queries, but understanding data
+- Joins can easily change results if not handled carefully
+- Clear structure makes queries easier to understand and debug
 
-Project Structure
+---
 
-This repository is organized to reflect a progressive learning workflow:
+• What I would improve
 
-SQL basics and query fundamentals
+- Add more complex scenarios
+- Improve organization of queries
+- Include more real-world style datasets
 
-Data manipulation techniques
+---
 
-Advanced querying and analytical functions
+• Notes
 
-Database structure and performance concepts
-
-Final project: insurance claims data analysis
-
-Each commit represents continued learning, experimentation, and improvement in SQL query design.
-
-Why This Project
-
-Data engineering begins with a strong understanding of how data is structured, queried, and transformed.
-
-This repository represents my effort to develop discipline, analytical thinking, and practical SQL skills while exploring how structured data can reveal patterns and insights.
-
-Continuous Learning
-
-I am continuing to expand my skills in:
-
-SQL and PostgreSQL
-
-Data pipelines
-
-Data engineering workflows
-
-Data platform concepts
-
-Connect With Me
-
-If you are interested in data, analytics, or SQL-based projects, feel free to connect with me on **LinkedIn.
-
-⭐ Thank you for taking the time to explore this repository.
+This repo reflects my learning process as I build towards working with data pipelines and more structured systems.
