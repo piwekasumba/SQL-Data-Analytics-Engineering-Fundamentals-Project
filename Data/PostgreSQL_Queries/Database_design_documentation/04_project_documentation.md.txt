@@ -1,17 +1,19 @@
-- Build scalable relational database systems
+• Build structured relational database systems using SQL (learning-focused)
 
 ---
 
--  Future Improvements
+• Future Improvements
 
-- Add indexing for performance optimization
-- Introduce ETL pipeline simulation
-- Create views for reporting layer
-- Add stored procedures for automation
-- Build Power BI / Tableau dashboard integration
+As I continue developing this project, I aim to improve both structure and analytical depth through:
+
+- Improving query performance through indexing concepts
+- Exploring basic ETL-style data preparation using SQL
+- Creating views to simplify repeated analysis queries
+- Writing cleaner and more reusable SQL scripts
+- Expanding analysis with additional datasets and scenarios
 
 ---
 
-- Author
+• Author
 
-This project was developed as part of a SQL and Data Engineering learning journey focused on building real-world, job-ready database skills.
+This project was developed as part of my learning journey in SQL and data analysis, focused on building strong foundational skills in working with relational databases, query design, and structured thinking with data.
