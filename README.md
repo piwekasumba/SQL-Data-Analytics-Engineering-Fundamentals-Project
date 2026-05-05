@@ -1,53 +1,70 @@
-SQL for Data Engineering
+# SQL for Data Engineering
 
-- Project Overview:
+- Project Overview
 
 This repository contains structured SQL practice using PostgreSQL, focused on building practical skills for working with real-world datasets.
 
-The project emphasizes writing clear, step-by-step SQL queries for data exploration, transformation, and preparation for analysis.
+The goal is to develop the ability to write clear, efficient SQL queries for data exploration, transformation, and preparation.
 
-- Why This Matters:
+---
 
-SQL is a core skill in data-related roles. Working with real datasets requires:
+- Why This Matters
 
-• Cleaning inconsistent data
-• Structuring datasets for analysis
-• Writing queries that are clear and reliable
+SQL is a core requirement for data roles such as Data Analyst and Data Engineer.
 
-This project focuses on building a strong foundation in:
+In real-world scenarios, data often needs to be:
+- cleaned and standardized  
+- structured for analysis  
+- queried in a reliable and repeatable way  
 
-• Data transformation
-• Query structuring
-• Preparing data for analysis
+This project focuses on building those foundational skills using SQL.
 
-- What This Project Demonstrates:
+---
 
-• Creating and structuring relational database tables
-• Writing queries to filter, aggregate, and analyze data
-• Using joins, groupings, and basic analytical functions
-• Performing data cleaning and validation
-• Practicing structured, readable SQL
+- What This Project Demonstrates
 
-- Tech & Tools:
+- Creating and structuring relational database tables  
+- Writing queries for filtering, aggregation, and analysis  
+- Using JOINs to combine datasets  
+- Applying GROUP BY and basic analytical logic  
+- Cleaning and validating data using SQL  
+- Writing readable, well-structured queries  
 
-• PostgreSQL
-• SQL
-• Relational database concepts
-• Git & GitHub
+---
 
-- Project Structure:
+- Tech & Tools
 
-SQL queries are written in a structured, step-by-step format
-Each section includes explanations to improve readability and understanding
-Focus is on clarity and learning, not production-level pipelines
+- PostgreSQL  
+- SQL  
+- Relational database concepts  
+- Git & GitHub  
 
-- Example Query:
+---
 
+- Project Structure
+
+- SQL Scripts  
+  Queries written in a step-by-step format covering:
+  - Data exploration  
+  - Data transformation  
+  - Basic analysis  
+
+- Documentation  
+  Explanations are included to support understanding and improve readability.
+
+This project focuses on clarity and strong SQL fundamentals rather than production-level pipeline design.
+
+---
+
+- Example Query
+
+```sql
 -- Total sales by category
-SELECT category, SUM(sales_amount) AS total_sales
+
+SELECT 
+    category, 
+    SUM(sales_amount) AS total_sales
 FROM sales_data
 GROUP BY category
-
-
 ORDER BY total_sales DESC;
 
