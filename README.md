@@ -1,64 +1,75 @@
-# SQL for Data Engineering
+📌 Project Overview
 
-- Project Overview
+This repository contains structured SQL practice using PostgreSQL, built from a guided learning path focused on real-world data engineering fundamentals.
 
-This repository contains structured SQL practice using PostgreSQL, focused on building practical skills for working with real-world datasets.
+It demonstrates how to use SQL to work with relational datasets for:
 
-The goal is to develop the ability to write clear, efficient SQL queries for data exploration, transformation, and preparation.
+• Data exploration
+• Data transformation
+• Data preparation for analysis
 
----
+The goal is to build strong SQL foundations that translate directly into entry-level Data Analyst and Data Engineering roles.
 
-- Why This Matters
+🎯 Why This Project Matters
 
-SQL is a core requirement for data roles such as Data Analyst and Data Engineer.
+SQL is one of the most important skills in data roles because most real-world data systems rely on relational databases.
 
-In real-world scenarios, data often needs to be:
-- cleaned and standardized  
-- structured for analysis  
-- queried in a reliable and repeatable way  
+In practice, data is rarely ready to use. It typically requires:
 
-This project focuses on building those foundational skills using SQL.
+• Cleaning and standardization
+• Structuring into analysis-ready formats
+• Reliable querying for reporting and insights
 
----
+This project builds those core capabilities using realistic, structured SQL exercises based on a data engineering learning path.
 
-- What This Project Demonstrates
+It is a foundational step toward building production-style data thinking.
 
-- Creating and structuring relational database tables  
-- Writing queries for filtering, aggregation, and analysis  
-- Using JOINs to combine datasets  
-- Applying GROUP BY and basic analytical logic  
-- Cleaning and validating data using SQL  
-- Writing readable, well-structured queries  
+🧠 What This Project Demonstrates
 
----
+This project shows practical SQL ability across key areas:
 
-- Tech & Tools
+• Creating and managing relational database tables
+• Writing structured queries for data exploration
+• Filtering, sorting, and transforming datasets
+• Using JOIN operations to combine multiple tables
+• Applying GROUP BY for aggregation and summarisation
+• Cleaning and validating data using SQL logic
+• Writing readable, production-style query structure
 
-- PostgreSQL  
-- SQL  
-- Relational database concepts  
-- Git & GitHub  
+It reflects early-stage data engineering thinking:
+“raw data → structured data → usable insights”
 
----
+🛠️ Tech Stack
 
-- Project Structure
+• PostgreSQL
+• SQL (Core querying + transformation logic)
+• Relational Database Concepts
+• Git & GitHub (version control & documentation)
 
-- SQL Scripts  
-  Queries written in a step-by-step format covering:
-  - Data exploration  
-  - Data transformation  
-  - Basic analysis  
+📁 Project Structure
 
-- Documentation  
-  Explanations are included to support understanding and improve readability.
+🔹 SQL Scripts
 
-This project focuses on clarity and strong SQL fundamentals rather than production-level pipeline design.
+Step-by-step query development covering:
 
----
+• Data exploration
+• Data cleaning and transformation
+• Aggregations and basic analysis
 
-- Example Query
+Each script is structured to show progression from raw data understanding to structured outputs.
 
-```sql
+🔹 Documentation
+
+Supporting explanations are included to:
+
+• Clarify query logic
+• Explain why transformations are needed
+• Reinforce SQL thinking patterns
+
+This improves readability and demonstrates intentional learning progression.
+
+💡 Example Query
+
 -- Total sales by category
 
 SELECT 
@@ -67,4 +78,22 @@ SELECT
 FROM sales_data
 GROUP BY category
 ORDER BY total_sales DESC;
+
+📈 Learning Outcome
+
+This project helped strengthen:
+
+• SQL fundamentals (queries, joins, aggregation)
+• Structured thinking for data problems
+• Understanding of relational data workflows
+• Preparation for real-world data roles
+
+It serves as a foundation project in a broader data engineering learning path.
+
+🔗 LinkedIn Learning Context
+
+Based on structured exercises from:
+
+• SQL for Data Engineering (Beginner → Advanced Path)
+• Capstone-style insurance claims analysis scenario
 
