@@ -1,3 +1,5 @@
+SQL for Data Engineering (Beginner to Advanced Practice)
+
 📌 Project Overview
 
 This repository contains structured SQL practice using PostgreSQL, built from a guided learning path focused on real-world data engineering fundamentals.
