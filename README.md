@@ -1,101 +1,84 @@
-SQL for Data Engineering (Beginner to Advanced Practice)
+• SQL for Data Engineering
 
-📌 Project Overview
+My first SQL-focused project built while following the LinkedIn Learning course
+“Complete Guide to SQL for Data Engineering — Beginner to Advanced”.
 
-This repository contains structured SQL practice using PostgreSQL, built from a guided learning path focused on real-world data engineering fundamentals.
+This repository documents my early hands-on practice using PostgreSQL to work with relational data, write SQL queries, and understand how data is structured for reporting and analytics.
 
-It demonstrates how to use SQL to work with relational datasets for:
+The project focuses on building practical SQL fundamentals through step-by-step exercises and small real-world style scenarios.
 
-• Data exploration
-• Data transformation
-• Data preparation for analysis
+• What I Practiced
 
-The goal is to build strong SQL foundations that translate directly into entry-level Data Analyst and Data Engineering roles.
+Throughout this project I worked on:
 
-🎯 Why This Project Matters
+Writing SQL queries for data exploration
+Filtering and sorting datasets
+Using JOINs across multiple tables
+Aggregating data with GROUP BY
+Cleaning and structuring raw data
+Creating analysis-ready outputs
+Improving query readability and structure
 
-SQL is one of the most important skills in data roles because most real-world data systems rely on relational databases.
+The main goal was to move beyond just learning syntax and start understanding how SQL is actually used in data workflows.
 
-In practice, data is rarely ready to use. It typically requires:
+• Why I Built This
 
-• Cleaning and standardization
-• Structuring into analysis-ready formats
-• Reliable querying for reporting and insights
+I started this project to build a stronger foundation in SQL and better understand how databases are used in analytics and data engineering environments.
 
-This project builds those core capabilities using realistic, structured SQL exercises based on a data engineering learning path.
+Before this, most of my learning was theory-based.
+This repository was my first attempt at applying SQL in a more practical and structured way.
 
-It is a foundational step toward building production-style data thinking.
+It helped me understand how raw data gets transformed into something usable for reporting, dashboards, and business analysis.
 
-🧠 What This Project Demonstrates
+• Tools Used
 
-This project shows practical SQL ability across key areas:
+PostgreSQL
+SQL
+Git & GitHub
 
-• Creating and managing relational database tables
-• Writing structured queries for data exploration
-• Filtering, sorting, and transforming datasets
-• Using JOIN operations to combine multiple tables
-• Applying GROUP BY for aggregation and summarisation
-• Cleaning and validating data using SQL logic
-• Writing readable, production-style query structure
+• Project Structure
 
-It reflects early-stage data engineering thinking:
-“raw data → structured data → usable insights”
+SQL Scripts
 
-🛠️ Tech Stack
+Includes practice queries covering:
 
-• PostgreSQL
-• SQL (Core querying + transformation logic)
-• Relational Database Concepts
-• Git & GitHub (version control & documentation)
+Data exploration
+Joins
+Aggregations
+Data cleaning
+Basic transformations
+Notes & Documentation
 
-📁 Project Structure
+I added explanations throughout the project to help reinforce the logic behind different queries and transformations as I learned.
 
-🔹 SQL Scripts
-
-Step-by-step query development covering:
-
-• Data exploration
-• Data cleaning and transformation
-• Aggregations and basic analysis
-
-Each script is structured to show progression from raw data understanding to structured outputs.
-
-🔹 Documentation
-
-Supporting explanations are included to:
-
-• Clarify query logic
-• Explain why transformations are needed
-• Reinforce SQL thinking patterns
-
-This improves readability and demonstrates intentional learning progression.
-
-💡 Example Query
-
--- Total sales by category
+• Example Query
 
 SELECT 
-    category, 
+    category,
     SUM(sales_amount) AS total_sales
 FROM sales_data
 GROUP BY category
 ORDER BY total_sales DESC;
 
-📈 Learning Outcome
+• What I Learned
 
-This project helped strengthen:
+This project helped me improve:
 
-• SQL fundamentals (queries, joins, aggregation)
-• Structured thinking for data problems
-• Understanding of relational data workflows
-• Preparation for real-world data roles
+SQL fundamentals
+Query structuring
+Relational database thinking
+Data cleaning logic
+Analytical problem solving
 
-It serves as a foundation project in a broader data engineering learning path.
+It also gave me a better understanding of how SQL fits into broader data analyst and data engineering workflows.
 
-🔗 LinkedIn Learning Context
+• Learning Source
 
-Based on structured exercises from:
+Built while following the LinkedIn Learning course:
 
-• SQL for Data Engineering (Beginner → Advanced Path)
-• Capstone-style insurance claims analysis scenario
+Complete Guide to SQL for Data Engineering — Beginner to Advanced
+
+This repository represents the starting point of my SQL and data engineering learning journey.
+
+
 
