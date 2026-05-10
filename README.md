@@ -1,84 +1,67 @@
-• SQL for Data Engineering
+# SQL for Data Engineering (Learning Project)
 
-My first SQL-focused project built while following the LinkedIn Learning course
+This project is part of my SQL learning portfolio focused on building real-world data analysis and data engineering fundamentals using PostgreSQL.
+
+This was my first structured SQL project completed while following the LinkedIn Learning course:
 “Complete Guide to SQL for Data Engineering — Beginner to Advanced”.
 
-This repository documents my early hands-on practice using PostgreSQL to work with relational data, write SQL queries, and understand how data is structured for reporting and analytics.
+---
 
-The project focuses on building practical SQL fundamentals through step-by-step exercises and small real-world style scenarios.
+## • Real-world Data Challenges
 
-• What I Practiced
+In real systems, data is rarely ready to use and often requires:
 
-Throughout this project I worked on:
+- cleaning and standardisation  
+- restructuring for analysis  
+- combining multiple tables  
+- preparing data for reporting  
 
-Writing SQL queries for data exploration
-Filtering and sorting datasets
-Using JOINs across multiple tables
-Aggregating data with GROUP BY
-Cleaning and structuring raw data
-Creating analysis-ready outputs
-Improving query readability and structure
+---
 
-The main goal was to move beyond just learning syntax and start understanding how SQL is actually used in data workflows.
+## • What I Worked On
 
-• Why I Built This
+In this project, I used SQL to build core fundamentals including:
 
-I started this project to build a stronger foundation in SQL and better understand how databases are used in analytics and data engineering environments.
+- writing structured SQL queries  
+- exploring relational datasets  
+- filtering and transforming data  
+- joining multiple tables  
+- aggregating results for analysis  
 
-Before this, most of my learning was theory-based.
-This repository was my first attempt at applying SQL in a more practical and structured way.
+---
 
-It helped me understand how raw data gets transformed into something usable for reporting, dashboards, and business analysis.
+## • How I Approached It
 
-• Tools Used
+I focused on learning SQL step-by-step and understanding how relational data moves from raw tables to structured outputs.
 
-PostgreSQL
-SQL
-Git & GitHub
+---
 
-• Project Structure
+## • Tools Used
 
-SQL Scripts
+PostgreSQL  
+SQL  
+Git & GitHub  
 
-Includes practice queries covering:
+---
 
-Data exploration
-Joins
-Aggregations
-Data cleaning
-Basic transformations
-Notes & Documentation
+## • Project Contents
 
-I added explanations throughout the project to help reinforce the logic behind different queries and transformations as I learned.
+- Data exploration queries  
+- Transformation queries  
+- Aggregation queries  
+- Learning exercises from course path  
 
-• Example Query
+---
 
+## • Example SQL Query
+
+```sql
 SELECT 
-    category,
+    category, 
     SUM(sales_amount) AS total_sales
 FROM sales_data
 GROUP BY category
 ORDER BY total_sales DESC;
-
-• What I Learned
-
-This project helped me improve:
-
-SQL fundamentals
-Query structuring
-Relational database thinking
-Data cleaning logic
-Analytical problem solving
-
-It also gave me a better understanding of how SQL fits into broader data analyst and data engineering workflows.
-
-• Learning Source
-
-Built while following the LinkedIn Learning course:
-
-Complete Guide to SQL for Data Engineering — Beginner to Advanced
-
-This repository represents the starting point of my SQL and data engineering learning journey.
 
 
 
