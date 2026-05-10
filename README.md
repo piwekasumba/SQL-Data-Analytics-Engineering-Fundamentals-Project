@@ -1,4 +1,4 @@
-# SQL for Data Engineering (Learning Project)
+# - SQL for Data Engineering (Learning Project) -
 
 This project is part of my SQL learning portfolio focused on building real-world data analysis and data engineering fundamentals using PostgreSQL.
 
