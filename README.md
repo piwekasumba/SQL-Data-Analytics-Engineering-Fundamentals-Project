@@ -1,55 +1,67 @@
-# - SQL for Data Engineering (Learning Project) -
+# SQL for Data Engineering (Learning Project)
 
-This project is part of my SQL learning portfolio focused on building real-world data analysis and data engineering fundamentals using PostgreSQL.
+This project is part of my SQL learning portfolio focused on building foundational SQL skills for data analysis and data engineering using PostgreSQL.
 
 This was my first structured SQL project completed while following the LinkedIn Learning course:
 “Complete Guide to SQL for Data Engineering — Beginner to Advanced”.
 
 ---
 
-## • Real-world Data Challenges
+## • Project Context
 
-In real systems, data is rarely ready to use and often requires:
+This project was built as a learning exercise to understand how SQL is used to work with structured data in real-world scenarios.
 
-- cleaning and standardisation  
-- restructuring for analysis  
-- combining multiple tables  
-- preparing data for reporting  
+It focuses on how raw data is transformed into usable outputs through SQL queries.
+
+---
+
+## • Real-world Data Concepts Practised
+
+In real data systems, datasets are rarely analysis-ready. They often require:
+
+- filtering and cleaning data  
+- structuring raw datasets  
+- combining related tables  
+- summarising data for reporting  
+
+This project simulates those core SQL workflows.
 
 ---
 
 ## • What I Worked On
 
-In this project, I used SQL to build core fundamentals including:
+In this project, I used SQL to build foundational skills including:
 
 - writing structured SQL queries  
-- exploring relational datasets  
-- filtering and transforming data  
-- joining multiple tables  
-- aggregating results for analysis  
+- filtering and selecting relevant data  
+- joining tables  
+- aggregating data for analysis  
+- practising data transformation logic  
 
 ---
 
 ## • How I Approached It
 
-I focused on learning SQL step-by-step and understanding how relational data moves from raw tables to structured outputs.
+I followed a step-by-step learning approach through the course and focused on understanding how SQL transforms raw relational data into structured outputs.
+
+The emphasis was on learning correct query structure and analytical thinking.
 
 ---
 
 ## • Tools Used
 
-PostgreSQL  
-SQL  
-Git & GitHub  
+- PostgreSQL  
+- SQL  
+- Git & GitHub  
 
 ---
 
 ## • Project Contents
 
+- SQL learning exercises from course modules  
 - Data exploration queries  
-- Transformation queries  
-- Aggregation queries  
-- Learning exercises from course path  
+- Filtering and transformation queries  
+- Aggregation and grouping queries  
 
 ---
 
