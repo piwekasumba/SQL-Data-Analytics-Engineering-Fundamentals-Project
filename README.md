@@ -1,71 +1,73 @@
-# SQL for Data Engineering (Learning Project)
-
-This project is part of my SQL learning portfolio focused on building foundational SQL skills for data analysis and data engineering using PostgreSQL.
-
-This was my first structured SQL project completed while following the LinkedIn Learning course:
-“Complete Guide to SQL for Data Engineering — Beginner to Advanced”.
+# • SQL for Data Engineering (Learning Project)  
+### Foundational SQL Skills for Data Analysis & Data Engineering
 
 ---
 
-## • Project Context
+## Project Overview
 
-This project was built as a learning exercise to understand how SQL is used to work with structured data in real-world scenarios.
+This project demonstrates foundational SQL skills developed through structured learning using PostgreSQL.
 
-It focuses on how raw data is transformed into usable outputs through SQL queries.
+It was completed as my first structured SQL project while following the LinkedIn Learning course:
+**“Complete Guide to SQL for Data Engineering — Beginner to Advanced”**
 
----
-
-## • Real-world Data Concepts Practised
-
-In real data systems, datasets are rarely analysis-ready. They often require:
-
-- filtering and cleaning data  
-- structuring raw datasets  
-- combining related tables  
-- summarising data for reporting  
-
-This project simulates those core SQL workflows.
+The focus of this project is to build a strong understanding of how SQL is used to query, transform, and structure relational data for analysis.
 
 ---
 
-## • What I Worked On
+## Project Context
 
-In this project, I used SQL to build foundational skills including:
+In real-world data environments, raw datasets are rarely analysis-ready.
 
-- writing structured SQL queries  
-- filtering and selecting relevant data  
-- joining tables  
-- aggregating data for analysis  
-- practising data transformation logic  
+They often require SQL-based processing such as:
+- cleaning and filtering data  
+- structuring relational datasets  
+- joining multiple tables  
+- aggregating data for reporting and insights  
 
----
-
-## • How I Approached It
-
-I followed a step-by-step learning approach through the course and focused on understanding how SQL transforms raw relational data into structured outputs.
-
-The emphasis was on learning correct query structure and analytical thinking.
+This project simulates these core SQL workflows at a foundational level.
 
 ---
 
-## • Tools Used
+## Core SQL Concepts Practised
+
+- Writing structured SQL queries  
+- Filtering and selecting data (WHERE, SELECT)  
+- Joining relational tables  
+- Aggregating data using GROUP BY  
+- Sorting and structuring outputs for analysis  
+
+---
+
+## Learning Approach
+
+This project followed a structured step-by-step learning process through guided course modules.
+
+The primary focus was on:
+- understanding SQL syntax and logic  
+- building confidence with query structure  
+- developing analytical thinking using relational data  
+- learning how raw data is transformed into usable outputs  
+
+---
+
+## Tools Used
 
 - PostgreSQL  
 - SQL  
-- Git & GitHub  
+- Git & GitHub Version Control  
 
 ---
 
-## • Project Contents
+## Project Contents
 
-- SQL learning exercises from course modules  
+- SQL exercises from structured learning modules  
 - Data exploration queries  
 - Filtering and transformation queries  
-- Aggregation and grouping queries  
+- Aggregation and grouping examples  
 
 ---
 
-## • Example SQL Query
+## Example SQL Query
 
 ```sql
 SELECT 
@@ -74,6 +76,3 @@ SELECT
 FROM sales_data
 GROUP BY category
 ORDER BY total_sales DESC;
-
-
-
