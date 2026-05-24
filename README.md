@@ -1,41 +1,48 @@
-• SQL Data Engineering Practice
+# SQL Data Analytics & Engineering Fundamentals Project
 ---
-Structured Query Development for Analytical Foundations
----
-• Project Overview
+## Project Overview
 
-- This project focuses on building strong SQL fundamentals and developing structured query logic aligned with real-world data systems.
+This project demonstrates foundational SQL skills used in data analytics and early-stage data engineering workflows. It focuses on querying structured datasets, transforming raw data, and building a strong base for business reporting and pipeline thinking.
 
-- It simulates early-stage responsibilities in Data Analyst and Junior Data Engineering roles, with emphasis on logic-building and query structure.
+The goal is to simulate real-world data tasks such as filtering, aggregating, joining datasets, and preparing data for analysis and reporting.
 
 ---
-• Learning Focus
 
-- Writing clean SQL queries
-- Understanding relational data models
-- Working with joins across multiple tables
-- Aggregation and grouping techniques
-- Developing ETL-style thinking
+## Key Skills Demonstrated
+
+- SQL querying (SELECT, WHERE, GROUP BY, ORDER BY)
+- Data aggregation and summarisation
+- Joins (INNER, LEFT)
+- Data cleaning and transformation logic
+- Analytical thinking using structured datasets
+
 ---
-• Practice Areas
 
-- Data filtering and selection
-- INNER and LEFT JOIN operations
-- GROUP BY and aggregation functions
-- Query readability and structure
-- Analytical problem-solving using SQL
+## Business Value
+
+This project reflects how raw structured data can be transformed into meaningful insights for reporting and decision-making. It forms the foundation for both:
+
+- Data Analytics (insight generation)
+- Data Engineering (data preparation for pipelines)
+
 ---
-• Tools & Technologies
 
-- SQL (PostgreSQL / MySQL compatible)
-- Relational datasets
-- Git & GitHub version control
+## Tools Used
+
+- SQL (PostgreSQL / MySQL syntax depending on environment)
+
 ---
-• Business Value
 
-This project strengthens foundational SQL skills required in analytics environments and supports:
+## Key Learning Outcome
 
-- Reporting query development
-- Data preparation for BI dashboards
-- Backend SQL logic for analytics systems
-- Early-stage data pipeline understanding
+Understanding how structured data is queried and prepared for analysis in real business environments.
+
+---
+
+## Future Improvements (Practical Next Steps)
+
+• Improve query structure using CTEs for better readability
+• Add more advanced aggregations for deeper analysis (trend-based KPIs)
+• Expand dataset to simulate larger real-world business scenarios
+• Improve documentation of SQL logic for each analysis step
+• Introduce basic reporting views for reusable queries
