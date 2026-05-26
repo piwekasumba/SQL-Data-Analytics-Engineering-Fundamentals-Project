@@ -1,48 +1,33 @@
-# SQL Data Analytics & Engineering Fundamentals Project
----
-## Project Overview
-
-This project demonstrates foundational SQL skills used in data analytics and early-stage data engineering workflows. It focuses on querying structured datasets, transforming raw data, and building a strong base for business reporting and pipeline thinking.
-
-The goal is to simulate real-world data tasks such as filtering, aggregating, joining datasets, and preparing data for analysis and reporting.
+# SQL Data Engineering & Analytics Fundamentals (PostgreSQL)
 
 ---
+## Overview
 
-## Key Skills Demonstrated
-
-- SQL querying (SELECT, WHERE, GROUP BY, ORDER BY)
-- Data aggregation and summarisation
-- Joins (INNER, LEFT)
-- Data cleaning and transformation logic
-- Analytical thinking using structured datasets
+This project demonstrates core SQL engineering and analytics concepts using PostgreSQL. It focuses on building structured queries, data models, and analytical transformations that reflect real-world data workflows.
 
 ---
+## Business Objective
 
-## Business Value
-
-This project reflects how raw structured data can be transformed into meaningful insights for reporting and decision-making. It forms the foundation for both:
-
-- Data Analytics (insight generation)
-- Data Engineering (data preparation for pipelines)
+- Build structured relational data models
+- Perform data transformation using SQL
+- Apply analytical querying for reporting use cases
+- Simulate foundational data engineering workflows
 
 ---
-
 ## Tools Used
 
-- SQL (PostgreSQL / MySQL syntax depending on environment)
+- PostgreSQL
+- SQL (Joins, CTEs, Window Functions, Data Modeling)
 
 ---
+## Key Work Completed
 
-## Key Learning Outcome
-
-Understanding how structured data is queried and prepared for analysis in real business environments.
+- Relational schema design and structuring
+- Data transformation using SQL pipelines
+- Analytical query development for reporting
+- Aggregation and segmentation logic
 
 ---
+## Outcome
 
-## Future Improvements (Practical Next Steps)
-
-• Improve query structure using CTEs for better readability
-• Add more advanced aggregations for deeper analysis (trend-based KPIs)
-• Expand dataset to simulate larger real-world business scenarios
-• Improve documentation of SQL logic for each analysis step
-• Introduce basic reporting views for reusable queries
+This project demonstrates foundational data engineering and analytics capabilities required for building scalable reporting systems.
