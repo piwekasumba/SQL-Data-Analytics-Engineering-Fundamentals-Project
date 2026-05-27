@@ -1,33 +1,44 @@
-# SQL Data Engineering & Analytics Fundamentals (PostgreSQL)
+# SQL Data Analytics Engineering Fundamentals | PostgreSQL
+---
+## Project Overview
+
+This project focuses on foundational SQL and data engineering concepts using PostgreSQL to simulate structured analytics and reporting workflows.
+
+The goal of the project is to strengthen practical understanding of relational databases, SQL querying, data transformations, and analytics-oriented data structuring.
+
+The project emphasizes clean SQL logic, relational thinking, and reporting-focused data workflows commonly used in data analytics environments.
 
 ---
-## Overview
 
-This project demonstrates core SQL engineering and analytics concepts using PostgreSQL. It focuses on building structured queries, data models, and analytical transformations that reflect real-world data workflows.
-
----
-## Business Objective
-
-- Build structured relational data models
-- Perform data transformation using SQL
-- Apply analytical querying for reporting use cases
-- Simulate foundational data engineering workflows
-
----
-## Tools Used
+## Learning & Technical Focus
 
 - PostgreSQL
-- SQL (Joins, CTEs, Window Functions, Data Modeling)
+- Relational Database Concepts
+- SQL Query Design
+- Joins & Aggregations
+- Common Table Expressions (CTEs)
+- Window Functions
+- Data Modeling Fundamentals
+- Reporting-Oriented SQL Analysis
 
 ---
-## Key Work Completed
 
-- Relational schema design and structuring
-- Data transformation using SQL pipelines
-- Analytical query development for reporting
-- Aggregation and segmentation logic
+## Project Areas
+
+### Relational Database Structuring
+
+Worked with structured tables and relational database concepts to support organized querying and analysis.
+
+### SQL Query Development
+
+Built analytical SQL queries focused on filtering, aggregations, joins, and structured reporting logic.
+
+### Data Transformation Concepts
+
+Applied SQL transformations to prepare datasets for analysis and reporting scenarios.
 
 ---
+
 ## Outcome
 
-This project demonstrates foundational data engineering and analytics capabilities required for building scalable reporting systems.
+This project demonstrates foundational SQL and analytics engineering concepts used to support structured data analysis and reporting workflows.
