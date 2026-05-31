@@ -1,44 +1,33 @@
-# SQL Data Analytics Engineering Fundamentals | PostgreSQL
----
-## Project Overview
+# SQL Data Analytics Engineering Fundamentals Project
 
-This project focuses on foundational SQL and data engineering concepts using PostgreSQL to simulate structured analytics and reporting workflows.
+## Problem Statement
 
-The goal of the project is to strengthen practical understanding of relational databases, SQL querying, data transformations, and analytics-oriented data structuring.
+- The goal is to demonstrate foundational SQL skills used in real-world data analytics and reporting environments.
 
-The project emphasizes clean SQL logic, relational thinking, and reporting-focused data workflows commonly used in data analytics environments.
+## Dataset Overview
 
----
+- This project uses structured relational datasets to simulate business reporting scenarios.
 
-## Learning & Technical Focus
+## Tools Used
 
 - PostgreSQL
-- Relational Database Concepts
-- SQL Query Design
-- Joins & Aggregations
-- Common Table Expressions (CTEs)
-- Window Functions
-- Data Modeling Fundamentals
-- Reporting-Oriented SQL Analysis
+- SQL querying and transformation logic
 
----
+## Data Workflow
 
-## Project Areas
+- Raw tables → query building → joins → aggregation → reporting outputs
 
-### Relational Database Structuring
+## Key SQL Techniques Used
 
-Worked with structured tables and relational database concepts to support organized querying and analysis.
+- SELECT statements
+- INNER/LEFT JOINs
+- GROUP BY and HAVING
+- Sorting and filtering datasets
 
-### SQL Query Development
+## Business Insights
 
-Built analytical SQL queries focused on filtering, aggregations, joins, and structured reporting logic.
+- Shows how raw business data is transformed into structured reports for decision-making.
 
-### Data Transformation Concepts
+## Outcome / Value
 
-Applied SQL transformations to prepare datasets for analysis and reporting scenarios.
-
----
-
-## Outcome
-
-This project demonstrates foundational SQL and analytics engineering concepts used to support structured data analysis and reporting workflows.
+- Builds foundation for reporting, BI dashboards, and junior analytics roles.
