@@ -1,33 +1,39 @@
-# SQL Data Analytics Engineering Fundamentals Project
+Project Objectives
 
-## Problem Statement
+• This project focuses on building foundational SQL and data analytics engineering skills by working through data querying, transformation, and analysis tasks.
 
-- The goal is to demonstrate foundational SQL skills used in real-world data analytics and reporting environments.
+• The goal is to demonstrate how raw data is structured and prepared for reporting and business analysis.
 
-## Dataset Overview
+Key Focus Areas
 
-- This project uses structured relational datasets to simulate business reporting scenarios.
+• Data querying and filtering
+• Data cleaning and transformation
+• Aggregation and joins
+• Basic data validation
+• Analytical query development
 
-## Tools Used
+Skills Demonstrated
 
-- PostgreSQL
-- SQL querying and transformation logic
+SQL Skills
 
-## Data Workflow
+• SELECT, WHERE, ORDER BY
+• Joins and subqueries
+• Aggregations
+• Data transformation
 
-- Raw tables → query building → joins → aggregation → reporting outputs
+Data Engineering Fundamentals
 
-## Key SQL Techniques Used
+• ETL understanding
+• Data preparation workflows
+• Structured dataset building
+• Data quality awareness
 
-- SELECT statements
-- INNER/LEFT JOINs
-- GROUP BY and HAVING
-- Sorting and filtering datasets
+Analytics Skills
 
-## Business Insights
+• Reporting support
+• KPI exploration
+• Trend identification
 
-- Shows how raw business data is transformed into structured reports for decision-making.
+Why This Project Matters
 
-## Outcome / Value
-
-- Builds foundation for reporting, BI dashboards, and junior analytics roles.
+• Most real-world analytics work depends on properly structured and clean data. This project demonstrates understanding of the foundational steps required before analysis can happen.
