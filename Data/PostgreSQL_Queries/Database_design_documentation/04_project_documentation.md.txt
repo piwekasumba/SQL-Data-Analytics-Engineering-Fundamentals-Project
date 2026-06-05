@@ -1,4 +1,6 @@
-• Build structured relational database systems using SQL (learning-focused)
+• Project Purpose
+
+This project focuses on building structured relational database systems using SQL in a learning-focused environment. It demonstrates foundational skills in database design, data modelling, and query development using realistic business-style datasets.
 
 ---
 
@@ -12,8 +14,10 @@ As I continue developing this project, I aim to improve both structure and analy
 - Writing cleaner and more reusable SQL scripts
 - Expanding analysis with additional datasets and scenarios
 
+These improvements will help strengthen the project’s alignment with real-world data analysis and reporting workflows.
+
 ---
 
 • Author
 
-This project was developed as part of my learning journey in SQL and data analysis, focused on building strong foundational skills in working with relational databases, query design, and structured thinking with data.
+This project was developed as part of my learning journey in SQL and data analysis. It focuses on building strong foundational skills in working with relational databases, query design, and structured thinking with data.
