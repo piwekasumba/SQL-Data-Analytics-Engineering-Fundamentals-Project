@@ -1,39 +1,69 @@
-Project Objectives:
+# SQL Data Analytics Fundamentals Project
 
-• This project focuses on building foundational SQL and data analytics engineering skills by working through data querying, transformation, and analysis tasks.
+## Business Problem
 
-• The goal is to demonstrate how raw data is structured and prepared for reporting and business analysis.
+Organizations rely on structured data analysis to understand operations, customer behaviour, and performance metrics. Without strong SQL foundations, data cannot be effectively transformed into reporting insights.
 
-Key Focus Areas:
+This project demonstrates core SQL skills used in real-world reporting and analytics environments.
 
-• Data querying and filtering
-• Data cleaning and transformation
-• Aggregation and joins
-• Basic data validation
-• Analytical query development
+---
 
-Skills Demonstrated:
+## Reporting Objective
 
-SQL Skills:
+To demonstrate foundational SQL capabilities used in analytics roles:
 
-• SELECT, WHERE, ORDER BY
-• Joins and subqueries
-• Aggregations
-• Data transformation
+- Data filtering and extraction
+- Table joins and relational understanding
+- Aggregation and grouping
+- Basic reporting logic using SQL queries
 
-Data Engineering Fundamentals:
+---
 
-• ETL understanding
-• Data preparation workflows
-• Structured dataset building
-• Data quality awareness
+## SQL Process
 
-Analytics Skills:
+This project focuses on:
 
-• Reporting support
-• KPI exploration
-• Trend identification
+- Writing structured SQL queries for analysis
+- Using JOIN operations to connect relational data
+- Applying GROUP BY for summarised reporting
+- Filtering datasets using WHERE conditions
+- Building query logic for reporting outputs
 
-Why This Project Matters:
+---
 
-• Most real-world analytics work depends on properly structured and clean data. This project demonstrates understanding of the foundational steps required before analysis can happen.
+## Decision Insight
+
+Strong SQL fundamentals are the foundation of reliable reporting systems.
+
+The way queries are structured directly impacts the accuracy and clarity of business insights.
+
+---
+
+## Business Impact
+
+These skills support:
+
+- Accurate reporting outputs
+- Reliable data extraction for decision-making
+- Structured analytical thinking in business environments
+- Foundation for advanced analytics and reporting roles
+
+---
+
+## What I Would Improve in a Real Company
+
+This foundation would be applied to:
+
+- Automated reporting systems
+- Business intelligence reporting layers
+- Data quality validation processes
+- Scalable analytics pipelines
+
+---
+
+## Skills Demonstrated
+
+- SQL fundamentals
+- Joins and relational data understanding
+- Aggregations and grouping
+- Reporting query logic
