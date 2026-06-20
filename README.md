@@ -4,7 +4,7 @@
 
 - Organizations rely on accurate data to support reporting and decision-making. Without strong SQL fundamentals, valuable business information remains difficult to access, validate, and interpret.
 
-This project demonstrates foundational SQL analysis techniques used to transform raw data into reporting-ready insights.
+- This project demonstrates foundational SQL analysis techniques used to transform raw data into reporting-ready insights.
 ---
  ## Objective
 
