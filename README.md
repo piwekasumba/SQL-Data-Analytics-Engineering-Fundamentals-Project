@@ -76,5 +76,5 @@ Focus Areas:
 ---
 ## Author
 
-- ###Piwe Kasumba
+- Piwe Kasumba
 
