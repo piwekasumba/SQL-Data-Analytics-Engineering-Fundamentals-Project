@@ -74,6 +74,27 @@ Focus Areas:
 - Develop deeper KPI tracking and performance reporting metrics
 - Explore advanced SQL techniques for reporting and data analysis
 ---
+## Business Impact
+
+This project demonstrates foundational SQL skills used in real-world data environments to extract, transform, and analyze structured datasets.
+
+Potential business outcomes include:
+
+- Improved data understanding and accessibility
+- Faster reporting through efficient querying
+- Better data-driven decision-making support
+- Strong foundation for advanced analytics and reporting tasks
+---
+## What I Learned
+
+Through this project I strengthened my understanding of:
+
+- SQL fundamentals including joins, filters, and aggregations
+- Relational database structure and querying logic
+- Data transformation and analytical problem solving
+- Building structured thinking for data analysis
+- Preparing data for reporting and insights
+---
 ## Author
 
 - ### Piwe Kasumba
