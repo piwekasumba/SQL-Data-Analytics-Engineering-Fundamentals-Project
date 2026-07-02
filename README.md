@@ -1,101 +1,141 @@
-### SQL Data Analytics Engineering Fundamentals Project
+# SQL Data Analytics Engineering Fundamentals
+--- 
+
+## Project Overview
+
+This project demonstrates the SQL skills I have been developing while preparing for an entry-level Data Analyst role.
+
+Using PostgreSQL, I worked through practical SQL exercises to build a stronger understanding of querying relational data, analysing information, and producing reporting-focused results. The project covers core SQL concepts that are commonly used in business reporting and data analysis.
+
+The aim was to build a solid foundation in SQL while practising how business questions can be answered using structured data.
+
 ---
-## Business Problem
 
-- Organizations rely on accurate data to support reporting and decision-making. Without strong SQL fundamentals, valuable business information remains difficult to access, validate, and interpret.
+# Business Problem
 
-- This project demonstrates foundational SQL analysis techniques used to transform raw data into reporting-ready insights.
+Businesses collect large amounts of data every day, but raw data has little value unless it can be organised and analysed.
+
+This project shows how SQL can be used to retrieve, organise, and summarise data to support reporting and business decision-making.
+
 ---
- ## Objective
 
-- Extract meaningful information using SQL
-- Demonstrate filtering, grouping, and aggregation techniques
-- Build reporting-focused analytical queries
-- Develop structured problem-solving using relational data
+# Project Objectives
+
+- Retrieve data using SQL queries
+- Practise filtering, sorting, and grouping data
+- Perform calculations using aggregate functions
+- Work with relational tables using joins
+- Produce reporting-focused query results
+
 ---
-## Dataset Overview
 
-- Source: Simulated analytical datasets
-- Environment: PostgreSQL
+# Dataset
 
-Focus Areas:
+**Dataset Type**
+
+Simulated relational datasets
+
+**Database**
+
+PostgreSQL
+
+### Focus Areas
 
 - Customer data
 - Transaction data
-- Relational database structures
+- Relational database concepts
+
 ---
- ## Tools Used
+
+# Skills Demonstrated
 
 - PostgreSQL
-- SQL Querying
-- Data Analysis
-- Aggregation Functions
-- Relational Database Concepts
+- SQL
+- Data Filtering
+- Data Aggregation
+- Table Joins
+- GROUP BY
+- ORDER BY
+- Business Reporting
+- Analytical Problem Solving
+
 ---
-## Key KPIs
 
-- Total Records Processed
-- Customer Activity Levels
-- Transaction Volume
-- Average Transaction Value
-- Category Performance Metrics
+# SQL Concepts Covered
+
+This project includes practical examples of:
+
+- SELECT statements
+- WHERE filtering
+- ORDER BY
+- GROUP BY
+- Aggregate functions
+- INNER JOIN
+- LEFT JOIN
+- Table relationships
+- Basic reporting queries
+
 ---
-## Key Insights
 
-- Well-structured SQL queries improve reporting accuracy.
-- Aggregated metrics provide clearer visibility into business performance.
-- Relational data models enable deeper analysis across multiple tables.
+# Example Business Questions
+
+The SQL queries explore questions such as:
+
+- How many records meet specific business conditions?
+- Which customers or categories appear most frequently?
+- What trends can be identified using grouped data?
+- How can multiple tables be combined to answer business questions?
+- How can SQL summarise data for reporting?
+
 ---
-## Business Recommendations
 
-- Implement consistent reporting standards across datasets.
-- Establish data validation checks to improve reporting accuracy.
-- Create reusable SQL templates to support reporting efficiency.
+# Project Structure
+
+```
+- SQL-Data-Analytics-Engineering-Fundamentals
+
+-  SQL Query Files
+-  Practice Exercises
+-  Join Examples
+-  Aggregation Queries
+-  Reporting Examples
+-  README.md
+```
+
 ---
-## Project Structure
 
-- SQL Query Files
-- Data Analysis Scripts
-- Aggregation Examples
-- Reporting Logic Examples
+# Business Value
+
+This project demonstrates how SQL can be used to organise and analyse structured data for reporting purposes.
+
+The queries show how businesses can use SQL to retrieve information, summarise results, and support everyday reporting activities.
+
 ---
-## What This Demonstrates
 
-- SQL querying ability
-- Relational database understanding
-- Reporting-focused analysis
-- KPI-driven thinking
-- Entry-level data analyst readiness
+# What I Learned
+
+Through this project I improved my ability to:
+
+- Write structured SQL queries
+- Work with relational databases
+- Apply joins and aggregate functions
+- Analyse structured datasets
+- Produce reporting-focused query results
+- Develop a more systematic approach to solving data problems
+
 ---
-## Next Improvements
-  
-- Expand analytical scenarios using more complex business questions
-- Add additional SQL joins and multi-table analysis examples
-- Develop deeper KPI tracking and performance reporting metrics
-- Explore advanced SQL techniques for reporting and data analysis
+
+# About This Project
+
+I completed this project as part of building my SQL portfolio while preparing for entry-level Data Analyst and Reporting Analyst opportunities in South Africa. It reflects my progress in learning SQL through practical exercises and applying database concepts to business-focused scenarios.
+
 ---
-## Business Impact
 
-This project demonstrates foundational SQL skills used in real-world data environments to extract, transform, and analyze structured datasets.
+# Author
 
-Potential business outcomes include:
+**Piwe Kasumba**
 
-- Improved data understanding and accessibility
-- Faster reporting through efficient querying
-- Better data-driven decision-making support
-- Strong foundation for advanced analytics and reporting tasks
----
-## What I Learned
+Junior Data Analyst (SQL Focus)
 
-Through this project I strengthened my understanding of:
-
-- SQL fundamentals including joins, filters, and aggregations
-- Relational database structure and querying logic
-- Data transformation and analytical problem solving
-- Building structured thinking for data analysis
-- Preparing data for reporting and insights
----
-## Author
-
-- ### Piwe Kasumba
+South Africa
 
