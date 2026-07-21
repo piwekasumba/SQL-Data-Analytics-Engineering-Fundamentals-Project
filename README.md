@@ -1,52 +1,56 @@
-# SQL Data Analytics Engineering Fundamentals
---- 
+# SQL Data Analytics Fundamentals for Business Reporting (PostgreSQL)
+
+---
 
 # Executive Summary
 
 This project demonstrates my ability to use PostgreSQL to organise, query and analyse relational business data for reporting purposes.
 
-Rather than focusing only on SQL syntax, the project shows how structured queries can answer business questions, generate reporting-ready datasets and support data-driven decision-making.
+Rather than focusing only on SQL syntax, the project demonstrates how structured SQL queries can answer business questions, summarise operational data and produce reporting-focused outputs that support business decision-making.
 
-The project simulates realistic business scenarios involving customers, policies, claims and orders, allowing me to practise the same analytical thinking expected from an entry-level Reporting Analyst.
+Using realistic business scenarios involving customers, policies, claims and orders, this project allowed me to strengthen both my SQL skills and my analytical approach while preparing for an entry-level Reporting Analyst role.
 
 ---
 
 # Business Scenario
 
-Organisations generate large volumes of operational data every day across customers, transactions, policies and claims.
+Organisations generate large volumes of operational data every day across customers, transactions, insurance policies and claims.
 
-Without accurate reporting, decision-makers cannot easily identify customer trends, monitor operational performance or measure business activity.
+Without structured reporting, decision-makers may struggle to monitor business performance, identify trends and make informed operational decisions.
 
-This project demonstrates how SQL can transform structured business data into meaningful reporting outputs that support operational monitoring and informed business decisions.
+This project demonstrates how SQL can transform relational business data into meaningful reporting information that supports day-to-day business analysis.
 
 ---
 
-# Reporting Objectives
+# Project Objectives
 
-Build reporting-ready SQL queries
-Retrieve accurate business information
-Analyse customer and transaction data
-Produce KPI-focused reporting outputs
-Demonstrate structured analytical thinking
-Support data-driven business decisions
+The objectives of this project were to:
+
+- Develop strong SQL querying skills using PostgreSQL
+- Retrieve and analyse business data from relational databases
+- Practise combining multiple tables using joins
+- Produce reporting-focused query results
+- Strengthen analytical thinking through realistic business scenarios
+- Build a practical SQL portfolio for Reporting Analyst roles
 
 ---
 
 # Dataset
 
-**Dataset Type**
+### Dataset Type
 
-Simulated relational datasets
+Simulated relational business datasets
 
-**Database**
+### Database
 
 PostgreSQL
 
-### Focus Areas
+### Business Domains
 
-- Customer data
-- Transaction data
-- Relational database concepts
+- Customers
+- Insurance Policies
+- Claims
+- Orders
 
 ---
 
@@ -57,136 +61,158 @@ PostgreSQL
 - PostgreSQL
 - SELECT
 - WHERE
-- GROUP BY
 - ORDER BY
+- GROUP BY
 - Aggregate Functions
 - INNER JOIN
 - LEFT JOIN
-
-## Reporting
-
-- KPI Reporting
-- Data Analysis
-- Trend Identification
-- Business Reporting
-- Data Summarisation
-
-## Database
-
-- Relational Database Design
-- Data Modelling
-- Foreign Keys
 - Table Relationships
 
+## Reporting & Analysis
 
-## Professional
+- Business Reporting
+- Data Analysis
+- Data Summarisation
+- Trend Identification
+- Query-Based Reporting
+- Business Question Analysis
+
+## Database Concepts
+
+- Relational Database Design
+- Foreign Keys
+- Primary Keys
+- Data Modelling
+
+## Professional Skills
 
 - Analytical Thinking
 - Problem Solving
 - Attention to Detail
-- Business Communication
+- Structured Query Development
 
 ---
 
-## Reporting Outputs
+# Business Questions Explored
 
-- Customer reporting
-- Claims reporting
-- Policy reporting
+The SQL queries in this project explore questions such as:
+
+- Which customers submitted the highest-value claims?
+- Which insurance policies are currently active?
+- Which customers generated the highest order values?
+- How can multiple business tables be combined to answer reporting questions?
+- How can SQL summarise operational business data for reporting purposes?
+
+---
+
+# Reporting Outputs
+
+The queries produce reporting-focused outputs including:
+
+- Customer reports
+- Claims summaries
+- Policy reports
 - Transaction summaries
-- Business performance summaries
-- Reporting-ready datasets for dashboards
-- Operational monitoring queries
+- Aggregated business data
+- Sorted operational reports
+- Joined reporting datasets
 
 ---
 
-# Business Insights
+# Business Value
 
-- identifying customers with high-value claims
-- monitoring active versus expired policies
-- analysing customer purchasing behaviour
-- summarising business transactions
-- linking customer activity across multiple datasets
-- supporting operational reporting
+This project demonstrates how SQL can transform structured relational data into useful reporting information.
 
----
+The queries show how customer, policy, claims and transaction data can be organised, analysed and summarised to support reporting activities and answer business questions.
 
-# Business Recommendations
-
-- monitor high-value insurance claims
-- identify customers requiring further investigation
-- track policy activity
-- improve reporting efficiency through reusable SQL queries
-- support operational decision-making using structured reports
-
+Although this is a portfolio project, the analytical approach reflects the structured thinking required for reporting and data analysis.
 
 ---
 
-#  Business Question
+# SQL Concepts Covered
 
-- Which customers submitted the highest value claims?
---
-#  Why It Matters
+This project demonstrates practical use of:
 
-- Helps insurance managers identify
-- high-cost customers and monitor claims risk.
---
-#  Reporting Outcome
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- Aggregate Functions
+- INNER JOIN
+- LEFT JOIN
+- Relational Database Concepts
+- Basic Reporting Queries
 
-- Produces a ranked report of customer claims.
+---
+
+# Repository Structure
+
+```
+SQL-Data-Analytics-Fundamentals
+
+│
+├── Database Schema
+├── Sample Data
+├── SQL Query Files
+├── Join Examples
+├── Aggregation Queries
+├── Reporting Queries
+└── README.md
+```
 
 ---
 
 # What I Learned
 
-Through this project I improved my ability to:
+Through this project I strengthened my ability to:
 
-- Write structured SQL queries
-- Work with relational databases
-- Apply joins and aggregate functions
-- Analyse structured datasets
+- Write clean and structured SQL queries
+- Analyse relational business data
+- Combine tables using joins
+- Summarise information using aggregate functions
 - Produce reporting-focused query results
-- Develop a more systematic approach to solving data problems
+- Apply SQL to realistic business scenarios
+- Think more systematically when solving business data problems
 
 ---
 
-# Repository Highlights
+# Future Improvements
 
-- Built using PostgreSQL
+As I continue developing this project I plan to:
 
-- Relational database design
-
-- Reporting-focused SQL
-
-- Business scenario
-
-- Analytical queries
-
-- KPI thinking
-
-- Business recommendations
-
-- Documentation 
+- Expand reporting scenarios
+- Improve query optimisation
+- Explore SQL views for reusable reporting
+- Strengthen SQL documentation
+- Apply additional business reporting examples
+- Continue improving analytical SQL techniques
 
 ---
 
-About This Project
+# About This Project
 
-I completed this project as part of building my SQL portfolio while preparing for entry-level Data Analyst and Reporting Analyst opportunities in South Africa. It reflects my progress in learning SQL through practical exercises and applying database concepts to business-focused scenarios.
+This project forms part of my SQL portfolio as I prepare for entry-level Reporting Analyst opportunities in South Africa.
+
+It demonstrates my progress in learning SQL through practical business scenarios while developing the analytical thinking required to organise, query and report on business data.
 
 ---
 
 # Why This Project Matters
 
-Although this project focuses on SQL fundamentals, every exercise has been approached from a business reporting perspective.
+This project focuses on more than learning SQL syntax.
 
-Rather than writing SQL for practice alone, I developed queries that simulate how Reporting Analysts retrieve, organise and summarise information used to support business decisions. 
+It demonstrates how SQL can be used to answer business questions, organise operational data and produce structured reporting outputs that support business analysis.
+
+My goal throughout the project was to approach each SQL exercise from the perspective of a Reporting Analyst rather than simply practising SQL commands.
 
 ---
+
 # About Me
+
+**Piwe Kasumba**
 
 Aspiring Reporting Analyst (SQL)
 
-Building practical SQL projects focused on business reporting, KPI analysis and decision support while preparing for an entry-level Reporting Analyst opportunity in South Africa.
+Building practical SQL projects focused on business reporting, data analysis and decision support while preparing for an entry-level Reporting Analyst opportunity in South Africa.
 
 
