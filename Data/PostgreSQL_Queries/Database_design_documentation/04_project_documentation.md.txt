@@ -1,23 +1,34 @@
-• Project Purpose
+---
 
-This project focuses on building structured relational database systems using SQL in a learning-focused environment. It demonstrates foundational skills in database design, data modelling, and query development using realistic business-style datasets.
+## Project Purpose
+
+This project was built to strengthen my practical SQL skills by working through realistic business reporting scenarios using PostgreSQL.
+
+The focus is on designing relational databases, writing structured SQL queries, preparing reporting-ready data, and analysing business information to support operational reporting and data-driven decision-making.
+
+The project reflects the foundational SQL, reporting, and analytical skills expected of an aspiring entry-level Reporting Analyst.
 
 ---
 
-• Future Improvements
+## Future Improvements
 
-As I continue developing this project, I aim to improve both structure and analytical depth through:
+As I continue developing this project, I plan to:
 
-- Improving query performance through indexing concepts
-- Exploring basic ETL-style data preparation using SQL
-- Creating views to simplify repeated analysis queries
-- Writing cleaner and more reusable SQL scripts
-- Expanding analysis with additional datasets and scenarios
+- Improve query performance using indexing and query optimisation techniques
+- Expand SQL reporting with additional business KPIs and management reports
+- Create reusable SQL views for common reporting requirements
+- Strengthen ETL workflows for data preparation and transformation
+- Apply more advanced SQL techniques to analyse larger and more complex datasets
+- Continue improving documentation and project organisation to reflect professional reporting workflows
 
-These improvements will help strengthen the project’s alignment with real-world data analysis and reporting workflows.
+These improvements will further develop my SQL, reporting, and business analysis skills while preparing me for an entry-level Reporting Analyst opportunity in South Africa.
 
 ---
 
-• Author
+## Author
 
-This project was developed as part of my learning journey in SQL and data analysis. It focuses on building strong foundational skills in working with relational databases, query design, and structured thinking with data.
+**Piwe Kasumba**
+
+Aspiring Reporting Analyst (SQL)
+
+Building practical SQL projects using PostgreSQL with a focus on business reporting, KPI analysis, data quality, and decision support while preparing for an entry-level Reporting Analyst opportunity in South Africa.
