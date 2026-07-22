@@ -1,53 +1,107 @@
-# SQL for Data Engineering (Practice & Concepts)
+# SQL Data Analytics Engineering Fundamentals
 
-• Overview
+## Executive Summary
 
-This repository contains SQL work I’ve done while learning the foundations of data engineering.
+This repository documents my SQL learning journey using PostgreSQL while building the core skills required for business reporting and data analysis.
 
-The focus is on building a solid understanding of how SQL is used beyond simple queries.
-
----
-
-• What this repo includes
-
-- SQL queries for different scenarios
-- Practice with joins and aggregations
-- Working with structured datasets
-- Exploring how data flows between tables
+The focus is on developing a strong understanding of relational databases, structured SQL queries, data organisation, and analytical thinking. Rather than practising SQL syntax alone, I approached each exercise from a business reporting perspective to understand how SQL supports reporting, KPI analysis, and data-driven decision-making.
 
 ---
 
-• Key focus areas
+# Learning Objectives
 
-- Understanding how to work with multiple tables
-- Writing queries that are clear and structured
-- Thinking about how queries behave with real data
-
----
-
-• Project Structure
-
-- SQL (PostgreSQL): queries and data work  
-- Documentation (text): notes, explanations, and thinking process  
+- Strengthen PostgreSQL fundamentals
+- Develop structured SQL querying skills
+- Work with relational database concepts
+- Understand how business data is organised
+- Build reporting-focused analytical thinking
+- Prepare for entry-level Reporting Analyst roles
 
 ---
 
-• What I learned
+# Topics Covered
 
-- SQL is not just about writing queries, but understanding data
-- Joins can easily change results if not handled carefully
-- Clear structure makes queries easier to understand and debug
+## SQL Fundamentals
+
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- HAVING
+- Aggregate Functions
+- INNER JOIN
+- LEFT JOIN
+- CASE Expressions
+
+## Database Concepts
+
+- Relational databases
+- Primary Keys
+- Foreign Keys
+- Table relationships
+- Data integrity
+
+## Reporting Skills
+
+- Business reporting
+- KPI calculations
+- Data summarisation
+- Trend analysis
+- Reporting-ready datasets
 
 ---
 
-• What I would improve
+# Practical Learning
 
-- Add more complex scenarios
-- Improve organization of queries
-- Include more real-world style datasets
+Throughout this repository I practised how to:
+
+- Retrieve business information using SQL
+- Combine data from multiple related tables
+- Summarise data using aggregate functions
+- Answer business-focused reporting questions
+- Produce structured reporting outputs
+- Apply SQL to realistic business scenarios
 
 ---
 
-• Notes
+# Skills Demonstrated
 
-This repo reflects my learning process as I build towards working with data pipelines and more structured systems.
+- PostgreSQL
+- SQL Query Writing
+- Relational Database Concepts
+- Data Analysis
+- Business Reporting
+- KPI Reporting
+- Analytical Thinking
+- Problem Solving
+- Attention to Detail
+
+---
+
+# Key Learning Outcomes
+
+Through this repository I strengthened my ability to:
+
+- Write clear and structured SQL queries
+- Understand relationships between business datasets
+- Apply SQL to reporting scenarios
+- Analyse structured business data
+- Develop a systematic approach to solving data problems
+
+---
+
+# Why This Repository Matters
+
+Strong SQL fundamentals form the foundation of business reporting and analytics.
+
+This repository demonstrates the core SQL knowledge I have developed while preparing for entry-level Reporting Analyst opportunities. The concepts practised here are applied throughout my larger SQL portfolio projects involving insurance claims analysis, retail sales reporting, and ETL workflows.
+
+---
+
+# About Me
+
+**Piwe Kasumba**
+
+Aspiring Reporting Analyst (SQL)
+
+Building practical SQL projects focused on business reporting, KPI analysis, and decision support while preparing for an entry-level Reporting Analyst opportunity in South Africa.
